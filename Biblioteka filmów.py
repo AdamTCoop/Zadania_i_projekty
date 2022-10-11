@@ -49,32 +49,32 @@ Movies(title = 'Predator 2', year = '1991',type = 'Action',lenght='M'),
 Movies(title = 'Colors', year = '1988',type = 'Drama',lenght='M'),
 Movies(title = 'Un Hombre y una Mujer', year = '1966',type = 'Drama',lenght='M'),
 Movies(title = 'Official Story  The', year = '1985',type = 'Drama',lenght='M'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '01', ep_number = '02',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '01', ep_number = '03',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '01',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '02',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '03',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '01',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '02',lenght='S'),
-Series(title = 'Gra o Tron', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '03',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '01', ep_number = '01',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '01', ep_number = '02',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '01', ep_number = '03',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '02', ep_number = '01',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '02', ep_number = '02',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '02', ep_number = '03',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '03', ep_number = '01',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '03', ep_number = '02',lenght='S'),
-Series(title = 'Rodzina Soprano', year = '2000',type = 'Drama',se_number = '03', ep_number = '03',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '01', ep_number = '01',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '01', ep_number = '02',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '01', ep_number = '03',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '02', ep_number = '01',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '02', ep_number = '02',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '02', ep_number = '03',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '03', ep_number = '01',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '03', ep_number = '02',lenght='S'),
-Series(title = 'The Office', year = '2010',type = 'Comedy',se_number = '03', ep_number = '03',lenght='S'),
+Series(title = 'Gra o Tron S01E01', year = '2012',type = 'Fantasy',se_number = '01', ep_number = '01',lenght='S'),
+Series(title = 'Gra o Tron S01E02', year = '2012',type = 'Fantasy',se_number = '01', ep_number = '02',lenght='S'),
+Series(title = 'Gra o Tron S02E01', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '01',lenght='S'),
+Series(title = 'Gra o Tron S02E02', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '02',lenght='S'),
+Series(title = 'Gra o Tron S02E03', year = '2012',type = 'Fantasy',se_number = '02', ep_number = '03',lenght='S'),
+Series(title = 'Gra o Tron S03E01', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '01',lenght='S'),
+Series(title = 'Gra o Tron S03E02', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '02',lenght='S'),
+Series(title = 'Gra o Tron S03E03', year = '2012',type = 'Fantasy',se_number = '03', ep_number = '03',lenght='S'),
+Series(title = 'Rodzina Soprano S01E01', year = '2000',type = 'Drama',se_number = '01', ep_number = '01',lenght='S'),
+Series(title = 'Rodzina Soprano S01E02', year = '2000',type = 'Drama',se_number = '01', ep_number = '02',lenght='S'),
+Series(title = 'Rodzina Soprano S01E03', year = '2000',type = 'Drama',se_number = '01', ep_number = '03',lenght='S'),
+Series(title = 'Rodzina Soprano S02E01', year = '2000',type = 'Drama',se_number = '02', ep_number = '01',lenght='S'),
+Series(title = 'Rodzina Soprano S02E02', year = '2000',type = 'Drama',se_number = '02', ep_number = '02',lenght='S'),
+Series(title = 'Rodzina Soprano S02E03', year = '2000',type = 'Drama',se_number = '02', ep_number = '03',lenght='S'),
+Series(title = 'Rodzina Soprano S03E01', year = '2000',type = 'Drama',se_number = '03', ep_number = '01',lenght='S'),
+Series(title = 'Rodzina Soprano S03E02', year = '2000',type = 'Drama',se_number = '03', ep_number = '02',lenght='S'),
+Series(title = 'Rodzina Soprano S03E03', year = '2000',type = 'Drama',se_number = '03', ep_number = '03',lenght='S'),
+Series(title = 'The Office S01E01', year = '2010',type = 'Comedy',se_number = '01', ep_number = '01',lenght='S'),
+Series(title = 'The Office S01E02', year = '2010',type = 'Comedy',se_number = '01', ep_number = '02',lenght='S'),
+Series(title = 'The Office S01E03', year = '2010',type = 'Comedy',se_number = '01', ep_number = '03',lenght='S'),
+Series(title = 'The Office S02E01', year = '2010',type = 'Comedy',se_number = '02', ep_number = '01',lenght='S'),
+Series(title = 'The Office S02E02', year = '2010',type = 'Comedy',se_number = '02', ep_number = '02',lenght='S'),
+Series(title = 'The Office S02E03', year = '2010',type = 'Comedy',se_number = '02', ep_number = '03',lenght='S'),
+Series(title = 'The Office S03E01', year = '2010',type = 'Comedy',se_number = '03', ep_number = '01',lenght='S'),
+Series(title = 'The Office S03E02', year = '2010',type = 'Comedy',se_number = '03', ep_number = '02',lenght='S'),
+Series(title = 'The Office S03E03', year = '2010',type = 'Comedy',se_number = '03', ep_number = '03',lenght='S'),
 ]
 
 Lista_alfa = sorted(Lista, key=lambda self: self.title)
@@ -92,6 +92,18 @@ def get_movies():
     for x in Lista_year:
         if x.lenght == 'M':
             print('Tytul: %s, Rok %s' % (x.title,x.year))
+def watch(value):
+    test = 0
+    end = '\nProjekcje zakończono.'
+    while True:
+        for x in Lista:
+            if x.title == value:
+                x.play()
+                test += 1
+                break
+        if test == 0:
+            print('Wskazanego tytułu nie ma w bazie. Spróbuj może z innym?')
+        return end
 def search(value):
     test = 0
     end = '\nWyszukiwanie zakończono.'
@@ -166,7 +178,8 @@ while True:
             '|. 4. Pobranie 1 tytulu - generate_views()_____________|\n',
             '|. 5. Pobranie 10 tytulow - generate_views10()_________|\n',
             '|. 6. Lokalny BoxOffice - top_views()__________________|\n'
-            ' |. 7. Chcesz dodać seriale? Śmiało!____________________|\n'
+            ' |. 7. Obejrzyj film! - play()__________________________|\n'
+            ' |. 8. Chcesz dodać seriale? Śmiało!____________________|\n'
             ' |------------------------------------------------------|')
         n = int(input('\nWprowadź numer polecenia jakie ma zostać wykonane:\n'))
     except ValueError:
@@ -195,6 +208,10 @@ while True:
         top_titles()
         continue
     elif n == 7:
+        print('Wprowadz tytul filmu jaki chcesz obejrzeć:')
+        watch(input())
+        continue
+    elif n == 8:
         dodaj_few()
         continue
     else:
